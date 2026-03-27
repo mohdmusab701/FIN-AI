@@ -1,0 +1,104 @@
+{
+  "app": {
+    "name": "FinAI",
+    "tagline": "AI-Powered Financial Assistant"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "expenses": "Expenses",
+    "revenue": "Revenue",
+    "invoices": "Invoices",
+    "reminders": "Reminders",
+    "tax": "Tax Estimation",
+    "aiInsights": "AI Insights",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email Address",
+    "password": "Password",
+    "name": "Full Name",
+    "businessName": "Business Name",
+    "businessType": "Business Type",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "welcome": "Welcome back!",
+    "createAccount": "Create your account"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalRevenue": "Total Revenue",
+    "totalExpenses": "Total Expenses",
+    "netProfit": "Net Profit",
+    "thisMonth": "This Month",
+    "recentTransactions": "Recent Transactions",
+    "expenseBreakdown": "Expense Breakdown",
+    "monthlyTrends": "Monthly Trends",
+    "upcomingReminders": "Upcoming Reminders",
+    "pendingInvoices": "Pending Invoices",
+    "overdueInvoices": "Overdue Invoices"
+  },
+  "expenses": {
+    "title": "Expense Tracker",
+    "addExpense": "Add Expense",
+    "editExpense": "Edit Expense",
+    "amount": "Amount (₹)",
+    "description": "Description",
+    "category": "Category",
+    "date": "Date",
+    "paymentMethod": "Payment Method",
+    "recurring": "Recurring",
+    "noExpenses": "No expenses found",
+    "deleteConfirm": "Are you sure you want to delete this expense?"
+  },
+  "invoices": {
+    "title": "Invoices",
+    "createInvoice": "Create Invoice",
+    "clientName": "Client Name",
+    "clientEmail": "Client Email",
+    "items": "Items",
+    "total": "Total",
+    "status": "Status",
+    "downloadPDF": "Download PDF",
+    "dueDate": "Due Date"
+  },
+  "reminders": {
+    "title": "Payment Reminders",
+    "addReminder": "Add Reminder",
+    "dueDate": "Due Date",
+    "amount": "Amount",
+    "status": "Status",
+    "contact": "Contact"
+  },
+  "tax": {
+    "title": "Tax Estimation",
+    "taxableIncome": "Taxable Income",
+    "estimatedTax": "Estimated Tax",
+    "gstPayable": "GST Payable",
+    "effectiveRate": "Effective Tax Rate",
+    "quarterly": "Quarterly Advance Tax",
+    "projected": "Projected Annual"
+  },
+  "ai": {
+    "title": "AI Financial Insights",
+    "getInsights": "Get AI Insights",
+    "predictCashFlow": "Predict Cash Flow",
+    "askQuestion": "Ask Financial Question",
+    "loading": "AI is analyzing your data...",
+    "placeholder": "Ask anything about your business finances..."
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "currency": "₹"
+  }
+}

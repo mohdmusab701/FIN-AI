@@ -1,0 +1,104 @@
+{
+  "app": {
+    "name": "FinAI",
+    "tagline": "AI-संचालित वित्तीय सहायक"
+  },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "expenses": "खर्चे",
+    "revenue": "राजस्व",
+    "invoices": "चालान",
+    "reminders": "रिमाइंडर",
+    "tax": "कर अनुमान",
+    "aiInsights": "AI अंतर्दृष्टि",
+    "settings": "सेटिंग्स",
+    "logout": "लॉग आउट"
+  },
+  "auth": {
+    "login": "लॉग इन",
+    "signup": "साइन अप",
+    "email": "ईमेल पता",
+    "password": "पासवर्ड",
+    "name": "पूरा नाम",
+    "businessName": "व्यवसाय का नाम",
+    "businessType": "व्यवसाय का प्रकार",
+    "noAccount": "खाता नहीं है?",
+    "hasAccount": "पहले से खाता है?",
+    "welcome": "वापस आपका स्वागत है!",
+    "createAccount": "अपना खाता बनाएं"
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "totalRevenue": "कुल राजस्व",
+    "totalExpenses": "कुल खर्चे",
+    "netProfit": "शुद्ध लाभ",
+    "thisMonth": "इस महीने",
+    "recentTransactions": "हाल के लेनदेन",
+    "expenseBreakdown": "खर्च विवरण",
+    "monthlyTrends": "मासिक रुझान",
+    "upcomingReminders": "आगामी रिमाइंडर",
+    "pendingInvoices": "लंबित चालान",
+    "overdueInvoices": "अतिदेय चालान"
+  },
+  "expenses": {
+    "title": "खर्च ट्रैकर",
+    "addExpense": "खर्च जोड़ें",
+    "editExpense": "खर्च संपादित करें",
+    "amount": "राशि (₹)",
+    "description": "विवरण",
+    "category": "श्रेणी",
+    "date": "तारीख",
+    "paymentMethod": "भुगतान का तरीका",
+    "recurring": "आवर्ती",
+    "noExpenses": "कोई खर्च नहीं मिला",
+    "deleteConfirm": "क्या आप वाकई इस खर्च को हटाना चाहते हैं?"
+  },
+  "invoices": {
+    "title": "चालान",
+    "createInvoice": "चालान बनाएं",
+    "clientName": "ग्राहक का नाम",
+    "clientEmail": "ग्राहक का ईमेल",
+    "items": "वस्तुएं",
+    "total": "कुल",
+    "status": "स्थिति",
+    "downloadPDF": "PDF डाउनलोड करें",
+    "dueDate": "देय तिथि"
+  },
+  "reminders": {
+    "title": "भुगतान रिमाइंडर",
+    "addReminder": "रिमाइंडर जोड़ें",
+    "dueDate": "देय तिथि",
+    "amount": "राशि",
+    "status": "स्थिति",
+    "contact": "संपर्क"
+  },
+  "tax": {
+    "title": "कर अनुमान",
+    "taxableIncome": "कर योग्य आय",
+    "estimatedTax": "अनुमानित कर",
+    "gstPayable": "GST देय",
+    "effectiveRate": "प्रभावी कर दर",
+    "quarterly": "त्रैमासिक अग्रिम कर",
+    "projected": "अनुमानित वार्षिक"
+  },
+  "ai": {
+    "title": "AI वित्तीय अंतर्दृष्टि",
+    "getInsights": "AI अंतर्दृष्टि प्राप्त करें",
+    "predictCashFlow": "नकदी प्रवाह भविष्यवाणी",
+    "askQuestion": "वित्तीय प्रश्न पूछें",
+    "loading": "AI आपके डेटा का विश्लेषण कर रहा है...",
+    "placeholder": "अपने व्यवसाय के वित्त के बारे में कुछ भी पूछें..."
+  },
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "add": "जोड़ें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "loading": "लोड हो रहा है...",
+    "noData": "कोई डेटा उपलब्ध नहीं",
+    "currency": "₹"
+  }
+}
